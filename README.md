@@ -12,7 +12,7 @@ O nome “Derivex” combina **"Derivatives"** (derivativos) e **"Exchange"** (t
 - **Acessibilidade**: Tornar estratégias de trading complexas acessíveis a qualquer pessoa com interesse em derivativos, independentemente do nível de experiência.
 - **Transparência**: Garantir que todas as operações e decisões de trading sejam verificáveis na blockchain, aumentando a confiança e eliminando intermediários.
 - **Segurança e Eficiência**: Utilizar contratos inteligentes para automatizar operações, com foco na segurança dos fundos e eficiência na execução de estratégias.
-- **Inovação contínua**: Implementar algoritmos de trading avançados, com foco em arbitragem, hedging e trading alavancado, sempre adaptados às condições de mercado.
+- **Inovação contínua**: Implementar algoritmos de trading avançados, com foco em arbitragem, hedge e trading alavancado, sempre adaptados às condições de mercado.
 
 ## 3. Entrega da DAO:
 A **Derivex DAO** entrega um conjunto de **estratégias de trading automatizadas para derivativos**, oferecendo aos membros uma plataforma descentralizada onde podem obter os seguintes benefícios:
@@ -21,7 +21,7 @@ A **Derivex DAO** entrega um conjunto de **estratégias de trading automatizadas
 
 - **Trading Automatizado**: A DAO implementa estratégias de trading automatizadas em plataformas DeFi (como **dYdX** ou **Synthetix**) usando contratos inteligentes. Essas estratégias podem incluir:
   - **Arbitragem de Opções**: Explorar discrepâncias de preço em diferentes mercados de opções.
-  - **Cobertura de Risco (Hedging)**: Usar opções ou futuros para proteger posições de risco em mercados voláteis.
+  - **Cobertura de Risco (Hedge)**: Usar opções ou futuros para proteger posições de risco em mercados voláteis.
   - **Trading Alavancado**: Operar com alavancagem para maximizar ganhos potenciais, com controle rígido de riscos programado em contratos inteligentes.
   
 - **Participação nos Lucros**: Os membros que detêm o token de governança podem partilhar os lucros gerados pelas operações bem-sucedidas.
