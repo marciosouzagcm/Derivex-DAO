@@ -3,24 +3,24 @@
 ## 1. Missão e Objetivo
 A **Derivex DAO** tem como missão democratizar o acesso a estratégias de trading automatizadas em derivativos, utilizando contratos inteligentes e tecnologia DeFi para maximizar os retornos dos seus membros, minimizando os riscos.
 
-## 2. Participação
+## 1.2. Participação
 Todos os membros da DAO, identificados pela posse do token de governança **DVX**, têm o direito de participar nas decisões da organização e partilhar dos lucros gerados pela DAO.
 
-## 3. Governança Descentralizada
+## 1.3. Governança Descentralizada
 A DAO é regida por um sistema de **votação descentralizada**, onde os detentores de **DVX** podem propor, discutir e votar em questões que afetam o futuro da organização.
 
-## 4. Emissão de Propostas
+## 1.4. Emissão de Propostas
 Qualquer membro que detenha uma quantidade mínima de tokens **DVX** tem o direito de propor mudanças nas estratégias de trading, na gestão de fundos ou em qualquer outro aspecto da DAO. As propostas são submetidas à votação da comunidade.
 
-## 5. Execução das Decisões
+## 1.5. Execução das Decisões
 As decisões aprovadas por maioria são automaticamente executadas através de **contratos inteligentes**, assegurando a implementação das mudanças de forma autónoma e transparente.
 
-## 6. Revisões
+## 1.6. Revisões
 A constituição pode ser revisada, com mudanças submetidas a votação pela comunidade **DVX**. Aprovada por uma supermaioria (ex.: 66% ou mais), a alteração é implementada automaticamente.
 
 ---
 
-# Definição dos Participantes do Ecossistema Web3 que Receberão Direitos de Governança
+# 2. Definição dos Participantes do Ecossistema Web3 que Receberão Direitos de Governança
 
 Os participantes que receberão direitos de governança dentro da **Derivex DAO** são aqueles que possuem o token de governança **DVX**. Aqui estão os principais tipos de participantes:
 
@@ -48,50 +48,50 @@ O projeto seguirá um modelo de **governança tokenizada**, onde os direitos de 
 ## Tipos de Decisões que Podem Ser Tomadas
 A **Derivex DAO** será gerida por meio de decisões coletivas, que incluem:
 
-### 1. Gestão de Estratégias de Trading:
+### 4.1. Gestão de Estratégias de Trading:
 - Ajustes nas estratégias automatizadas de arbitragem, hedging, ou trading alavancado.
 - Implementação de novas estratégias de trading.
 
-### 2. Alocação de Capital:
+### 4.2. Alocação de Capital:
 - Decidir quanto capital deve ser alocado para diferentes tipos de derivativos ou plataformas DeFi.
 - Votação sobre o uso de fundos de reserva para cobrir perdas ou reinvestir.
 
-### 3. Mudanças na Governança:
+### 4.3. Mudanças na Governança:
 - Alterações na estrutura de votação.
 - Revisões à constituição da DAO.
 
-### 4. Distribuição de Lucros:
+### 4.4. Distribuição de Lucros:
 - Decidir a periodicidade e a proporção em que os lucros serão distribuídos entre os detentores de tokens.
 
-### 5. Parcerias e Expansão:
+### 4.5. Parcerias e Expansão:
 - Votação em potenciais parcerias com outras DAOs ou plataformas DeFi.
 
 ---
 
-## Procedimento para Publicação de Propostas:
+## 5. Procedimento para Publicação de Propostas:
 
-1. **Proposta Inicial**: Qualquer membro que detenha uma quantidade mínima de tokens **DVX** (por exemplo, 1% da oferta total) pode submeter uma proposta através de um smart contract específico para tal.
+5.1. **Proposta Inicial**: Qualquer membro que detenha uma quantidade mínima de tokens **DVX** (por exemplo, 1% da oferta total) pode submeter uma proposta através de um smart contract específico para tal.
 
-2. **Período de Discussão**: A proposta é publicada num fórum público, como um espaço de discussão dentro da plataforma **Snapshot**, onde os membros podem comentar e sugerir alterações.
+5.2. **Período de Discussão**: A proposta é publicada num fórum público, como um espaço de discussão dentro da plataforma **Snapshot**, onde os membros podem comentar e sugerir alterações.
 
-3. **Organização de Votação pelas Guildas**:
+5.3. **Organização de Votação pelas Guildas**:
    - **Guilda de Governança**: Esta guilda é responsável por gerir e moderar o processo de votação. Eles certificam-se de que as propostas cumprem as regras estabelecidas e organizam as votações.
    - **Guilda Técnica**: Após a votação, a guilda técnica garante que as decisões aprovadas são implementadas através de contratos inteligentes e executadas de forma automática.
 
-4. **Votação**: Após o período de discussão, inicia-se o período de votação, que pode durar entre 7 a 14 dias, dependendo da complexidade da proposta. A votação ocorre no **Snapshot** (ou outra ferramenta de votação sem gas fees), onde os tokens **DVX** são usados para votar.
+5.4. **Votação**: Após o período de discussão, inicia-se o período de votação, que pode durar entre 7 a 14 dias, dependendo da complexidade da proposta. A votação ocorre no **Snapshot** (ou outra ferramenta de votação sem gas fees), onde os tokens **DVX** são usados para votar.
 
-5. **Implementação**: Se a proposta for aprovada, a **Guilda Técnica** é responsável por garantir que os contratos inteligentes necessários para implementar a decisão sejam corretamente executados.
+5.5. **Implementação**: Se a proposta for aprovada, a **Guilda Técnica** é responsável por garantir que os contratos inteligentes necessários para implementar a decisão sejam corretamente executados.
 
 ---
 
-## Exemplo de Guildas na Governança:
+## 6. Exemplo de Guildas na Governança:
 - **Guilda de Governança**: Coordena a criação, publicação e votação de propostas.
 - **Guilda Técnica**: Supervisiona o desenvolvimento e implementação de smart contracts para decisões aprovadas.
 - **Guilda de Operações**: Garante que a DAO esteja em conformidade com as decisões e mantém a operação eficiente.
 
 ---
 
-# 5. Documento Regulamentador da Governança Descentralizada
+# 7. Documento Regulamentador da Governança Descentralizada
 
 O documento que regulamenta e torna a governança descentralizada juridicamente vinculativa será chamado de **Acordo de Governança da Derivex DAO**.
 
