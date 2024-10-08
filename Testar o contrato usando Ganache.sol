@@ -7,44 +7,7 @@ Após a instalação, execute o Ganache para criar uma blockchain
 O Ganache criará automaticamente 10 contas com ETH fictício em uma rede local
 Servidor RPC ou Script(http://127.0.0.1:8545)
 3. Configure seu projeto para usar o Ganache
-No seu código, conecte-se ao Ganache usando a biblioteca Web3 ou Web3j (dependendo da linguagem que você está usando). Aqui está um exemplo em JavaScript com Web
-Javascript-escritor
 
-Copiar código
-const Web3 = require('web3');
-const web3 = new Web3('http://127.0.0.1:8545');
-Se acontecer
-
-Java
-
-Copiar código
-Web3j web3 = Web3j.build(new HttpService("http://127.0.0.1:8545"));
-4. Implantar contrato inteligente
-Implementar
-Exemplo com Tr
-
-Adicione seu contrato à pasta contracts.
-Crie um roteiro de migração na pasta migrations.
-Execute o comando:
-bater
-
-Copiar código
-truffle migrate --network development
-5. Teste o Exchange DAO
-Após a implantação
-6. Verificar Transações
-UM
-Caso
-
-
-
-
-
-
-Você disse:
-estou tilizando solidez
-O ChatGPT disse:
-ChatGPT
 Para testar seu exchange "DAO" programado em Solidity utilizando o Ganache, siga este fluxo mais específico para
 
 1. Instalar Ganache
